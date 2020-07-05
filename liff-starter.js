@@ -162,10 +162,10 @@ function meProfile(){
     liff.getProfile().then(function (prof) {
         var stat = prof.statusMessage;
         if (stat == null) {
-            var stat = " Bio boş #NacroBots";
+            var stat = " Bio boş #NBS SYSTEM";
         }
         if (stat.length > 60) {
-            var stat = "Status Message is to long! Max 60 words/nNacroBotz";
+            var stat = "Status Message is to long! Max 60 words/nNBS System";
         }
         if (tipe === 'profile') {
             liff.sendMessages([{
