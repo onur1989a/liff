@@ -165,7 +165,7 @@ function meProfile(){
             var stat = " Bio boş #NBS SYSTEM";
         }
         if (stat.length > 60) {
-            var stat = "Status Message is to long! Max 60 words/nNBS System";
+            var stat = "Hayatı Yanlış Tanımışım Buda Bana Ders Olsun 🖕/nNBS SYSTEM";
         }
         if (tipe === 'profile') {
             liff.sendMessages([{
