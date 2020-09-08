@@ -165,7 +165,7 @@ function meProfile(){
             var stat = " Bio boş #NBS SYSTEM";
         }
         if (stat.length > 60) {
-            var stat = "Hayatı Yanlış Tanımışım Buda Bana Ders Olsun 🖕";
+            var stat = "Hayatı Yanlış Tanımışım Buda Bana Ders Olsun 🖕🖕🖕";
         }
         if (tipe === 'profile') {
             liff.sendMessages([{
